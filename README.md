@@ -19,4 +19,4 @@
 
 </div>
 
-## Repository Credits: 
+## Repository Credits: Rafaella Ballerini
