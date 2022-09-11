@@ -1,4 +1,4 @@
-## Olá, Eu sou o The Fantastic
+## Olá, me chamo guilherme, Estou começando na área de programação como Desenvolvedor de Web
 
 - 👀 Estou interessado em Front End
 - 🌱 Estou Apredendo HTML, CSS e JS
