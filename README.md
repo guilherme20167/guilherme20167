@@ -1,8 +1,8 @@
-## Olá, Eu sou o The Fantastic
+## Olá, me chamo Guilherme, Estou Começando na Área de Programção como Desenvolvedor Front-End
 
-- 👀 Estou interessado em Front End
+- 👀 Estou interessado em Programação
 - 🌱 Estou Apredendo HTML, CSS e JS
-- 💞️ Estou Colaborando com Front End
+- 💞️ Estarei Colaborando como Front End
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantastic&show_icons=true&theme=blue-green)
 
@@ -18,3 +18,5 @@
   src="https://avatars.githubusercontent.com/u/113070155?v=4/width=676&height=676">
 
 </div>
+
+## Repository Credits: 
