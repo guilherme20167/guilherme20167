@@ -4,7 +4,7 @@
 - 🌱 Estou Apredendo HTML, CSS e JS
 - 💞️ Estarei Colaborando como Front End
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme&show_icons=true&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme20167&show_icons=true&theme=blue-green)
 
 ##
 
