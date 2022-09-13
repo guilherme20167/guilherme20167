@@ -1,4 +1,4 @@
-## Olá, me chamo Guilherme, Estou Começando na Área de Programção como Desenvolvedor Front-End
+## Olá, me chamo Guilherme, Estou Começando na Área de Programção como Desenvolvedor de Web
 
 - 👀 Estou interessado em Programação
 - 🌱 Estou Apredendo HTML, CSS e JS
@@ -15,7 +15,7 @@
     <img align="center" alt="TF-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="TF-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="right" alt="TF-pic" height="150" style="border-radius:50px;" 
-  src="https://avatars.githubusercontent.com/u/113070155?v=4/width=676&height=676">
+  src="https://media.discordapp.net/attachments/701269799585710090/1019051122763251772/338224_GcvjmtYh.gif?width=369&height=369">
 
 </div>
 
